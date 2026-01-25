@@ -1,0 +1,17 @@
+Checkpoint: resnet18_petimages.pth
+Validation accuracy: 0.9804 (4902/5000)
+
+Confusion matrix:
+[[2459   41]
+ [  57 2443]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+         Cat     0.9773    0.9836    0.9805      2500
+         Dog     0.9835    0.9772    0.9803      2500
+
+    accuracy                         0.9804      5000
+   macro avg     0.9804    0.9804    0.9804      5000
+weighted avg     0.9804    0.9804    0.9804      5000
+
