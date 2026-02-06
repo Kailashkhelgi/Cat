@@ -9,7 +9,7 @@
 
 An end-to-end **Machine Learning Engineering** project that builds, evaluates, and deploys a **Deep Learning Image Classifier** using **Transfer Learning (ResNet18)**.
 
-The system classifies images of **Cats vs Dogs**, includes full evaluation and error analysis, and is deployed with a **FastAPI inference service** and an interactive **Streamlit web UI**.
+The system classifies images of **Cats & Dogs**, includes full evaluation and error analysis, and is deployed with a **FastAPI inference service** and an interactive **Streamlit web UI**.
 
 ---
 
